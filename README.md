@@ -6,6 +6,7 @@ Juntando todo o conhecimento que adquiri durante o curso, criei um projeto de CR
 
 A ideia era criar um sistema que salvasse novos cursos na plataforma, informando o preço, horario, duração e os dias da semana.
 
+![image](https://user-images.githubusercontent.com/93790694/162831657-746a427d-84ae-4822-a9f7-519830588746.png)
 
 ## Impressões finais do curso
 
